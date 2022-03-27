@@ -1,0 +1,12 @@
+# OUTPUTS
+1. Temperature ![image](https://user-images.githubusercontent.com/101641134/160290230-16c3dfd6-adaf-4f09-90cf-60b742a9aaca.png)
+2. Moisture ![image](https://user-images.githubusercontent.com/101641134/160290279-e6e4272e-64d2-433d-a0c7-a8347fca5883.png)
+3. IR ![image](https://user-images.githubusercontent.com/101641134/160290311-e8f02a72-9c40-470c-865b-f9177fb3f741.png)
+4. GSM ![image](https://user-images.githubusercontent.com/101641134/160290366-c399d5d2-9485-4dd1-95b8-9d3c1a306e6b.png)
+5. Bluetooth ![image](https://user-images.githubusercontent.com/101641134/160290390-bf272c9b-edc0-4384-a219-d9207a336e9f.png)
+6. Humidity ![image](https://user-images.githubusercontent.com/101641134/160290410-139226d8-a71f-406b-ac9a-fa8db5c93774.png)
+7. Gas ![image](https://user-images.githubusercontent.com/101641134/160290422-b454025b-f481-46df-8aa3-5a635f349d86.png)
+8. Motion ![image](https://user-images.githubusercontent.com/101641134/160290441-6783f499-1f9f-466a-be8b-fedf0ae17574.png)
+9. Pulse ![image](https://user-images.githubusercontent.com/101641134/160290453-9acdb87f-ebaf-47c0-9b67-d33f3511a87a.png)
+10. Sound ![image](https://user-images.githubusercontent.com/101641134/160290476-223f8478-a4e6-4eab-8197-4bdacbfbc790.png)
+11. Invalid/Error Input ![image](https://user-images.githubusercontent.com/101641134/160290509-6639e21e-9df9-4edf-ad4e-7768f2447625.png)
