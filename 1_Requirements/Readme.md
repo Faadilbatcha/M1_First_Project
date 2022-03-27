@@ -2,9 +2,9 @@
 A sensor is a device that receives a signal or stimulus and responds to the stimulus in the form of an electrical signal. The output signals correspond to some forms of electrical signal, such as current or voltage. The sensor is a device that receives different kinds of signal i.e. physical, chemical or biological signal and converts them into an electric signal. The sensors are classified into different types based on the applications, input signal, and conversion mechanism, material used in sensor characteristics such as cost, accuracy or range. This Project presents an overview of some basic sensors and their classifications as IC name, Operating voltage, Peripherals. 
 
 # Features:
-1.Get User's choice of input and present the chosen Sensor's basic Datasheet.
+1. Get User's choice of input and present the chosen Sensor's basic Datasheet.
 
-2.Simple Project -Learning tool and easy to understand.
+2. Simple Project -Learning tool and easy to understand.
 
 # 4W'S and 1H:
 ## What?
