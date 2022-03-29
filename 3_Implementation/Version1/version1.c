@@ -18,7 +18,6 @@ int flag=0;
 int main()
 {
 	int x,i;
-	char s;
     printf("\nHello User, Welcome To Sensor's Guide!!! \n");
     printf("\nChooose Your Need \n");
     for(i=0;i<10;i++){
