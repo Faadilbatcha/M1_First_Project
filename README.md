@@ -1,5 +1,5 @@
-# M1_First_Project
- Naming convention: "M1_ProjectGoal"
+# M1_SensorsGuide
+ Our Goal is to Develop a Guide/Learning Tool program for young Instrumenteers on some basic Sensors and their features such as IC name, Operating Voltage and Current, Peripheral Pins with Elaboration.
 
 # Badges
 * Codacy - Static Code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a83ad881db5448b829e2e0356440733)](https://www.codacy.com/gh/Faadilbatcha/M1_SensorsGuide/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Faadilbatcha/M1_SensorsGuide&amp;utm_campaign=Badge_Grade)
