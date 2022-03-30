@@ -7,3 +7,4 @@
 * Build CI - LINUX [![Build CI - LINUX](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/c-cpp.yml)
 * Analysis [![Analysis](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/analysis.yml/badge.svg)](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/analysis.yml)
 * Build CI - WINDOWS [![Build CI - Windows](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/windows%20c-cpp.yml/badge.svg)](https://github.com/Faadilbatcha/M1_SensorsGuide/actions/workflows/windows%20c-cpp.yml)
+
